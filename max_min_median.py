@@ -38,7 +38,7 @@ def max_min_median(array: list) -> tuple:
         else:
             median = ordered_array[median_index]
 
-    # Calculate a max and min
+    # Calculate a max and a min
     maximum = ordered_array[-1]
     minimum = ordered_array[0]
 
